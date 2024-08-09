@@ -35,8 +35,6 @@ REACT_APP_API_BASE_URL=https://jsonplaceholder.typicode.com
 
 ### Run App
 
-First run this cammand, it will install all depedencies.
-
 ### `yarn start`
 
 Runs the app in the development mode.\
