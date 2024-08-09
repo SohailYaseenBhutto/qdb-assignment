@@ -23,7 +23,7 @@ A React application for managing and viewing blog posts with a sidebar for navig
 
 ### Prerequisites
 
-- Node.js and Yarn
+- Node >=14 and Yarn
 
 ### Install dependencies:
 
